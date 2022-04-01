@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\bin\Debug\netcoreapp3.1\StudentCount.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\bin\Debug\netcoreapp3.1\StudentCount.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\bin\Debug\netcoreapp3.1\StudentCount.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\bin\Debug\netcoreapp3.1\StudentCount.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\bin\Debug\netcoreapp3.1\StudentCount.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\bin\Debug\netcoreapp3.1\StudentCount.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\StudentCount\StudentCount\obj\Debug\netcoreapp3.1\StudentCount.genruntimeconfig.cache
