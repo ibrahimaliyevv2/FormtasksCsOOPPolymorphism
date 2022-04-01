@@ -32,7 +32,11 @@ namespace AreaOfFigures
                         rectangular.CalcArea();
                         break;
                     case 0:
+                        Console.WriteLine("Good-bye!");
                         check = false;
+                        break;
+                    default:
+                        Console.WriteLine("Wrong command!");
                         break;
                 }
                     
