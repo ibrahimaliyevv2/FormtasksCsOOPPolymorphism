@@ -1,0 +1,10 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\AreaOfFigures\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
