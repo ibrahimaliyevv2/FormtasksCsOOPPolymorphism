@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\bin\Debug\netcoreapp3.1\EmployeeNameCheck.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\bin\Debug\netcoreapp3.1\EmployeeNameCheck.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\bin\Debug\netcoreapp3.1\EmployeeNameCheck.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\bin\Debug\netcoreapp3.1\EmployeeNameCheck.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\bin\Debug\netcoreapp3.1\EmployeeNameCheck.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\bin\Debug\netcoreapp3.1\EmployeeNameCheck.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPPolymorphism\EmployeeNameCheck\EmployeeNameCheck\obj\Debug\netcoreapp3.1\EmployeeNameCheck.genruntimeconfig.cache
