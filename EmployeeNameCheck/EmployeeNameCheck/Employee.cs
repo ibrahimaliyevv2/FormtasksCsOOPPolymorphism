@@ -10,13 +10,11 @@ namespace EmployeeNameCheck
         {
             this.Position = position;
             TotalCount++;
-            No = TotalCount;
             GroupNo = Convert.ToString(Position[0]).ToUpper() + Convert.ToString(Position[1]).ToUpper() + Convert.ToString(No);
         }
 
-        static int TotalCount = 1000;
+        public static int TotalCount = 1000;
 
-        public int No;
         public string Position;
 
         private string _fullName;
