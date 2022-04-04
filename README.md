@@ -25,6 +25,7 @@ Program class-ında bir menu olacaq
 
 Task-2: (EmployeeNameCheck)
 Employee obyektinin adinda reqem olarsa verilen value-nu set eden proqram yazin.
+GroupNo-su position-in ilk iki herfi uppercase ve No(totalCountdan elde edilen 1000+)
 
 Task-3:
 
