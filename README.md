@@ -21,3 +21,12 @@ Program class-ında bir menu olacaq
 
 İstifadəçi 1 yazıb enter-ə click-ləsə Square-in CalcArea methodu işə düşməlidir.
 İstifadəçi 2 yazıb enter-ə click-ləsə Rectangular-in CalcArea methodu işə düşməlidir.
+
+
+Task-2:
+
+Student class:
+ -No
+ -TotalCount => Student obyektlerinin umumi sayi (static)
+ -FullName
+ -GroupNo
