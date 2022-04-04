@@ -29,7 +29,10 @@ Employee obyektinin adinda reqem olarsa verilen value-nu set eden proqram yazin.
 Task-3:
 
 Student class: (StudentCount)
- -No
+ -No => Telebenin necenci yaradilmis obyekt oldugunu gosterir.
+ 
  -TotalCount => Student obyektlerinin umumi sayi (static)
+ 
  -FullName
+ 
  -GroupNo
