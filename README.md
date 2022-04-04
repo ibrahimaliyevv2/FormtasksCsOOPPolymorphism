@@ -1,6 +1,6 @@
 # FormtasksCsOOPPolymorphism
 
-Task-1:
+Task-1: (AreaOfFigures)
 
 Bir Figure abstrakt class-ı olur və onun Figure-dan miras alan zaman mütləq override edilməsi lazım olan bir
  CalcArea
@@ -23,9 +23,12 @@ Program class-ında bir menu olacaq
 İstifadəçi 2 yazıb enter-ə click-ləsə Rectangular-in CalcArea methodu işə düşməlidir.
 
 
-Task-2:
+Task-2: (EmployeeNameCheck)
+Employee obyektinin adinda reqem olarsa verilen value-nu set eden proqram yazin.
 
-Student class:
+Task-3:
+
+Student class: (StudentCount)
  -No
  -TotalCount => Student obyektlerinin umumi sayi (static)
  -FullName
